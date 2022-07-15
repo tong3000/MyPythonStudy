@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"failed","test_alluredemo1#test_failure","0","this test fails"
+"broken","test_alluredemo1#test_broken","1",""
+"skipped","test_alluredemo1#test_skip","0","this test is skipped"
+"passed","test_alluredemo1#test_success","0","this test succeeds"

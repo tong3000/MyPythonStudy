@@ -1,0 +1,53 @@
+{
+  "uid" : "526b7760f2b082b0",
+  "name" : "test_skip",
+  "fullName" : "test_alluredemo1#test_skip",
+  "historyId" : "9af340dd435adc1e4fb5c3769d9a146f",
+  "time" : {
+    "start" : 1657706278775,
+    "stop" : 1657706278775,
+    "duration" : 0
+  },
+  "description" : "this test is skipped",
+  "descriptionHtml" : "<p>this test is skipped</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('D:\\\\Environment\\\\MyPythonStudy\\\\studyPython\\\\com\\\\chapter07\\\\lesson10\\\\test_alluredemo1.py', 16, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_alluredemo1"
+  }, {
+    "name" : "host",
+    "value" : "tonghuan"
+  }, {
+    "name" : "thread",
+    "value" : "17720-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_alluredemo1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "526b7760f2b082b0.json",
+  "parameterValues" : [ ]
+}

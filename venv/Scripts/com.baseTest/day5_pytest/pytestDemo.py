@@ -1,0 +1,9 @@
+"""
+pytest扩展包介绍
+pytest-sugar：
+pytest-rerunfailures：失败重新执行
+pytest-xdist
+pytest-assume
+pytest-html
+"""
+print(3+4);
